@@ -76,3 +76,21 @@
 .btn:hover{
     background-color: blueviolet;
 }
+
+.about-container{
+   
+    display: flex;
+    padding: 10px;
+    align-items: center;
+    justify-content: space-around
+}
+
+
+.abotTextHeder{
+    padding-bottom: 10px;
+}
+
+.about-title{
+    text-align: center;
+    padding: 20px;
+}
